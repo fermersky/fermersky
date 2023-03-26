@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 📬 Telegram: <a href="https://t.me/dskrypnik">@dskrypnik</a>
 - ✉️ Email: email@danya.tech
 - ⚡ Fun fact: Have never worked at night.
-- 📃 Read more in the **CV:** <a href="https://drive.google.com/file/d/1KlPljkdv42QJAXrtQOu8ZARBc1bVOQ_H/view">cv.danya.tech</a>
+- 📃 Read more in the **CV:** <a href="https://drive.google.com/file/d/11533zGl1gYrFRCX5U-6YT1vk4eTdopSM/view">cv.danya.tech</a>
 
