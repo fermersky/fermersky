@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:
 -->
-- 🤓 2+ years in Software Engineering
+- 🤓 3+ years in Software Engineering
 - 🔭 Langs: JS/TS and Py, mostly working on Backend. Experienced in Frontend and DevOps as well.
 - 💬 I think, the most important soft skill for an engineer is an open-mindedness.
 - 📬 Telegram: <a href="https://t.me/dskrypnik">@dskrypnik</a>
-- ✉️ Email: email@danya.tech
+- ✉️ Email: dynastytyan@gmail.com
 - ⚡ Fun fact: Have never worked at night.
-- 📃 Read more in the **CV:** <a href="https://drive.google.com/file/d/11533zGl1gYrFRCX5U-6YT1vk4eTdopSM/view">cv.danya.tech</a>
+- 📃 Read more in the **CV:** <a href="https://drive.google.com/file/d/1j5zREJOycMIcnEykRwLeML0H9LVrFQmW/view?usp=sharing">cv.danya.tech</a>
 
