@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🤓 3+ years in Software Engineering
+- 🤓 4+ years in Software Engineering
 - 🔭 Langs: JS/TS and Py, mostly working on Backend. Experienced in Frontend and DevOps as well.
 - 💬 I think, the most important soft skill for an engineer is an open-mindedness.
 - 📬 Telegram: <a href="https://t.me/dskrypnik">@dskrypnik</a>
